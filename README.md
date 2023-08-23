@@ -6,7 +6,7 @@ The Code Injector Tool is a Python script that uses Scapy and NetfilterQueue to 
 
 - Python 3.x
 - Scapy
-- NetfilterQueue
+- NetfilterQueue !
 
 ## Installation
 
